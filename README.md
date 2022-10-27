@@ -7,7 +7,7 @@
 
 ## Index 
 
-0. Fundamentals of Web apps
+0. [Fundamentals of Web apps](./part0)
 1. Introduction to React
 2. Communicating with server
 3. Programming a server with NodeJS and Express
